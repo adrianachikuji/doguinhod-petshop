@@ -38,7 +38,6 @@ const listaClientes =() => {
      tabela.appendChild(crianrNovaLinha(elemento.nome, elemento.email))
         })
  })
- 
 
 
 
